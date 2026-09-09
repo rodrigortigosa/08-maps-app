@@ -1,5 +1,12 @@
 # MapsApp
 
+Levantar proyecto en Dev
+
+1. Clonar repositorio
+2. Instalar dependencias
+3. Generar el `.env` basdado en el `.env.template`
+4. Ejecutar el comando `npm run set-envs`
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.19.
 
 ## Development server
